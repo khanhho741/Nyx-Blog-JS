@@ -849,6 +849,12 @@ body.light-theme {
 
     .menu > .list {
         flex-direction: row;
+        gap: 4rem; // !
+        margin-left: 10rem; // !
+    }
+
+    .list {
+        justify-content: space-around;
     }
 
     .screen-lg-hidden {
@@ -903,7 +909,7 @@ body.light-theme {
     }
 
     .blog-post-data img{
-        width: 80rem;
+        width: 90rem;
         height: 50rem;
     }
 }
