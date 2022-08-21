@@ -853,9 +853,9 @@ body.light-theme {
         margin-left: 10rem; // !
     }
 
-    .list {
+    /* .list {
         justify-content: space-around;
-    }
+    } */
 
     .screen-lg-hidden {
         display: none;
